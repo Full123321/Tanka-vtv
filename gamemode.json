@@ -1,0 +1,21 @@
+{
+  "Name": "тяночка занята2",
+  "Description": "если кто-то потревожит, тому пиздец",
+  "StartClientVersion": 334,
+  "ApiVersion": 2,
+  "MapLists": [
+    {
+      "MapListId": 8401,
+      "Name": "Заготовки"
+    }
+  ],
+  "Parameters": {
+    "Bool": [
+      {
+        "Name": "BlueTeam",
+        "DisplayName": "Teams/Blue",
+        "Default": true
+      }
+    ]
+  }
+}
